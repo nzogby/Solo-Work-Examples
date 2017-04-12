@@ -1,4 +1,7 @@
 /*  Author: Nathaniel Zogby njzogby
+
+This assignment required us to use reverse polish notation to make basic calculations
+using the "token" interface that was given to us
 */
 
 #ifndef A5_HPP
